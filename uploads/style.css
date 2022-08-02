@@ -1,13 +1,3 @@
-<html>
-<body>
-<p>
-
-html {
-   padding: 2.5% 7.5%;
-   color: #000033;
-   font-family: Baskerville, Palatino, "Palatino Linotype", "Book Antiqua", serif;
-}
-
 body {
    padding: 2.5% 7.5%;
    color: #000033;
@@ -79,7 +69,3 @@ span {
    font-weight: bold;
   }
 }
-
-</p>
-</body>
-</html>
